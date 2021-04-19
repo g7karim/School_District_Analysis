@@ -19,7 +19,7 @@ C) How does replacing the ninth graders’ math and reading scores affect Thomas
 
 D) How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade: 
+Math and reading scores by grade:
 The grade 9 scores in Thomas High School dropped. The grade 9 average was higher at THS compared to other schools 
 
 Scores by school spending:
