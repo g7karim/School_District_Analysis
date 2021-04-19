@@ -52,8 +52,8 @@ School Summary
 Overall Passing
 ![image](https://user-images.githubusercontent.com/79559910/115175500-194f4d00-a099-11eb-8f3f-e14b6895592a.png)
 
-Spending range
-![image](https://user-images.githubusercontent.com/79559910/115175518-210ef180-a099-11eb-886e-f10346af3ad5.png)
+Spending range!
+[image](https://user-images.githubusercontent.com/79559910/115175518-210ef180-a099-11eb-886e-f10346af3ad5.png)
 
 
 
