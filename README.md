@@ -1,4 +1,4 @@
-Deliverable 3: Summary Analysis
+Summary Analysis
 
 PURPOSE:
 
@@ -37,6 +37,11 @@ Scores by school type:
 
 -  charter type schools had a 90% to 87% drop in overall passing percentage 
 
+Overall Passing
+School Summary
+Passing Math & Reading
+DS Summary
+School size![image](https://user-images.githubusercontent.com/79559910/115175299-c07fb480-a098-11eb-9dec-351f2eb1fdad.png)
 
 
 
