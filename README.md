@@ -37,12 +37,17 @@ Scores by school type:
 
 -  charter type schools had a 90% to 87% drop in overall passing percentage 
 
-Overall Passing
-School Summary
-Passing Math & Reading
-DS Summary
-School size![image](https://user-images.githubusercontent.com/79559910/115175299-c07fb480-a098-11eb-9dec-351f2eb1fdad.png)
+School size![image](https://user-images.githubusercontent.com/79559910/115175419-edcc6280-a098-11eb-9ac5-4e3d53043b3c.png)
 
+DS Summary![image](https://user-images.githubusercontent.com/79559910/115175431-f58c0700-a098-11eb-9d57-6c52de5f49bc.png)
+
+Passing Math & Reading![image](https://user-images.githubusercontent.com/79559910/115175459-00469c00-a099-11eb-9d32-ad7ca82b1153.png)
+
+School Summary![image](https://user-images.githubusercontent.com/79559910/115175477-0f2d4e80-a099-11eb-8086-164bf01c8b46.png)
+
+Overall Passing![image](https://user-images.githubusercontent.com/79559910/115175500-194f4d00-a099-11eb-8f3f-e14b6895592a.png)
+
+Spending range![image](https://user-images.githubusercontent.com/79559910/115175518-210ef180-a099-11eb-886e-f10346af3ad5.png)
 
 
 SUMMARY
