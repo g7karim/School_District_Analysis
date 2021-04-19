@@ -43,17 +43,21 @@ Scores by school type:
 
 ![image](https://user-images.githubusercontent.com/79559910/115175431-f58c0700-a098-11eb-9d57-6c52de5f49bc.png)
 
+![image](https://user-images.githubusercontent.com/79559910/115175518-210ef180-a099-11eb-886e-f10346af3ad5.png)
+
 
 ![image](https://user-images.githubusercontent.com/79559910/115175459-00469c00-a099-11eb-9d32-ad7ca82b1153.png)
 
  
+![image](https://user-images.githubusercontent.com/79559910/115175500-194f4d00-a099-11eb-8f3f-e14b6895592a.png) 
+
 ![image](https://user-images.githubusercontent.com/79559910/115175477-0f2d4e80-a099-11eb-8086-164bf01c8b46.png)
 
  
-![image](https://user-images.githubusercontent.com/79559910/115175500-194f4d00-a099-11eb-8f3f-e14b6895592a.png)
 
 
-![image](https://user-images.githubusercontent.com/79559910/115175518-210ef180-a099-11eb-886e-f10346af3ad5.png)
+
+
 
 
 
