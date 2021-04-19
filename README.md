@@ -1,6 +1,7 @@
 Deliverable 3: Summary Analysis
 
 PURPOSE:
+
 I am assisting Maria to replace the math and reading scores for Thomas High School with NaNs as the school board reported academic dishonesty. Maria as well requested to repeat the school district analysis from the module and describe how these changes affected the overall analysis in a written report. The following analysis will be looking in the comparisons between the original analysis and the new analysis.
 
 RESULTS: 
@@ -20,16 +21,20 @@ C) How does replacing the ninth graders’ math and reading scores affect Thomas
 D) How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade:
+
 The grade 9 scores in Thomas High School dropped. The grade 9 average was higher at THS compared to other schools 
 
 Scores by school spending:
+
 The $630 to $644 range dropped from 63% to 56% in overall passing percentage
  
 
 Scores by school size:
+
 Schools with the 1000 to 2000 size had drop from 91% to 85% in overall passing percentage 
 
 Scores by school type:
+
 The charter type schools had a 90% to 87% drop in overall passing percentage 
 
 
